@@ -61,6 +61,8 @@ brew install git
 
 ## 2 准备 open jdk 8 或 oracle jdk 8
 
+注意，准备open jdk 8 或 oracle jdk 8，二者只要准备好一个就可以。
+
 2.1 准备open jdk 8
 
 若在Windows 10上安装open jdk 8，可以访问[https://jdk.java.net/java-se-ri/8-MR4](https://jdk.java.net/java-se-ri/8-MR4)下载安装。
